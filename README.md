@@ -1,13 +1,13 @@
 # Tredly CLI
 
 Version 0.2.0
-May 4 2016
+May 5 2016
 
-This is a software package to provide remote access to Tredly Host. You can find out more information about Tredly at **[http://tredly.com](http://tredly.com)**
+This is a software package to provide remote access to Tredly Host. You can find out more information about Tredly at **<http://tredly.com>**
 
 ## Installation
 
-Requires tredly-api 0.2.0 **[https://github.com/tredly/tredly-api](https://github.com/tredly/tredly-api)** to be installed remotely on Tredly Host
+Requires tredly-api 0.2.1 **<https://github.com/tredly/tredly-api>** to be installed remotely on Tredly Host
 
 Install Tredly CLI:
 
@@ -17,7 +17,7 @@ Install Tredly CLI:
 
 ## Usage
 
-Tredly CLI is remote access command line client for tredly-api 0.2.0 **[https://github.com/tredly/tredly-api](https://github.com/tredly/tredly-api)**. You can find out more information about tredly commands at [Tredly Documentation](https://github.com/tredly/tredly-host/blob/master/README.md)
+Tredly CLI is remote access command line client for tredly-api 0.2.1 **<https://github.com/tredly/tredly-api>**. You can find out more information about tredly commands at [Tredly Documentation](https://github.com/tredly/tredly-host/blob/master/README.md)
 
 It also provides additional commands for remote access:
 
@@ -32,5 +32,4 @@ We encourage you to contribute to Tredly. Please check out the [Contributing doc
 
 ## License
 
-Tredly API is released under the [GNU General Public License v3](http://www.gnu.org/licenses/gpl-3.0.en.html).
-
+Tredly is released under the [MIT License](http://www.opensource.org/licenses/MIT).

@@ -14,7 +14,7 @@
     "tredly"
   ],
   "author": "Tredly Team",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "dependencies": {
     "async": "^1.4.2",
     "co": "^4.6.0",
