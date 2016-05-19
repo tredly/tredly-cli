@@ -2,6 +2,14 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.3.0] - 2016-05-19
+#### Added
+- New "tredly disconnect" command
+- New "tredly change password" command
+
+#### Changed
+- "tredly connect" command has been simplified
+
 ## [0.2.0] - 2016-05-05
 #### Added
 - New "tredly push files" command

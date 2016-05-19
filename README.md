@@ -1,13 +1,13 @@
 # Tredly CLI
 
-Version 0.2.0
-May 5 2016
+Version 0.3.0
+May 19 2016
 
 This is a software package to provide remote access to Tredly Host. You can find out more information about Tredly at **<http://tredly.com>**
 
 ## Installation
 
-Requires tredly-api 0.2.1 **<https://github.com/tredly/tredly-api>** to be installed remotely on Tredly Host
+Requires tredly-api 0.3.0 **<https://github.com/tredly/tredly-api>** to be installed remotely on Tredly Host
 
 Install Tredly CLI:
 
@@ -17,7 +17,7 @@ Install Tredly CLI:
 
 ## Usage
 
-Tredly CLI is remote access command line client for tredly-api 0.2.1 **<https://github.com/tredly/tredly-api>**. You can find out more information about tredly commands at [Tredly Documentation](https://github.com/tredly/tredly-host/blob/master/README.md)
+Tredly CLI is remote access command line client for tredly-api 0.3.0 **<https://github.com/tredly/tredly-api>**. You can find out more information about tredly commands at [Tredly Documentation](https://github.com/tredly/tredly-host/blob/master/README.md)
 
 It also provides additional commands for remote access:
 
