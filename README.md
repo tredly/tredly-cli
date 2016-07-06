@@ -25,7 +25,7 @@ It also provides additional commands for remote access:
 - `tredly disconnect` - use this command to disconnect from remote Tredly Host.
 - `tredly change password` - use this command to change current user's password.
 - `tredly push files --location=[server path]` - use this command from source directory to push its contents to remote Tredly Host. This command does NOT create/update container.
-- `tredly push container` - use this command from your project directory (which contains Tredlyfile) to push the project to remote Tredly Host and create/update container. The command accept the same parameters as `tredly create container`. See [Tredly Documentation](https://github.com/tredly/tredly-host/blob/master/README.md)
+- `tredly push container` - use this command from your project directory (which contains tredly.yaml) to push the project to remote Tredly Host and create/update container. The command accept the same parameters as `tredly create container`. See [Tredly Documentation](https://github.com/tredly/tredly-host/blob/master/README.md)
 
 Administrator can also use the following commands:
 
