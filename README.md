@@ -1,7 +1,7 @@
 # Tredly CLI
 
-Version 0.4.0
-May 26 2016
+Version 1.0.0
+July 7 2016
 
 This is a software package to provide remote access to Tredly Host. You can find out more information about Tredly at **<http://tredly.com>**
 

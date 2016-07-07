@@ -2,6 +2,14 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [1.0.0] - 2016-07-07
+#### Fixed
+- Fixed issues with compatibility
+
+## [0.4.0] - 2016-05-26
+#### Added
+- Implemented interactive CLI (" tredly console" command)
+
 ## [0.4.0] - 2016-05-26
 #### Added
 - Implemented interactive CLI (" tredly console" command)
